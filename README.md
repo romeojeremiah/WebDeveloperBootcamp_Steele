@@ -43,7 +43,7 @@
 #### Todo List Projects
 
 #### OPTIONAL Project: Patatap Clone
-
+  * Patatap Clone [My Solution](https://romeojeremiah.github.io/patatap-clone/)
 #### Backend Basics
 
 #### The Command Line

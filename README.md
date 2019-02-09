@@ -51,7 +51,7 @@
 #### Node JS
 
 #### Server Side Frameworks
-  * Express Basics Exercise [My Solution](https://github.com/romeojeremiah/Web_Developer_Bootcamp_Steele/blob/master/app.js)
+  * Express Basics Exercise [My Solution](https://github.com/romeojeremiah/Web_Developer_Bootcamp_Steele/blob/master/Express%20Basics%20Exercise/express-basics.js)
 #### Intermediate Express
 
 #### Working with APIs
